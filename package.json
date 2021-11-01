@@ -1,0 +1,24 @@
+{
+  "name": "graphql-quest-2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Yunuskutuk/GraphQl-quest-2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Yunuskutuk/GraphQl-quest-2/issues"
+  },
+  "homepage": "https://github.com/Yunuskutuk/GraphQl-quest-2#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-graphql": "^0.12.0",
+    "graphql": "^15.7.1"
+  }
+}
